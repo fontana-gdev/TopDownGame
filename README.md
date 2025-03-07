@@ -13,4 +13,5 @@ You can:
 - Dig a hole on the farming patch on the left
 - Water the hole to grow a carrot
 - Press E inside small brown earth patch to build a house (you need wood)
+- Press E bellow the pond to fill the watering can
 - Press F above the pond to fish
