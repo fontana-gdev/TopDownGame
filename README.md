@@ -1,6 +1,10 @@
 # TopDownGame
  First 2D top down game created to study Unity
 
+Latest build:
+https://drive.google.com/file/d/1_7PSJhBiZ5bl1AKoxMkqwYfElsrI92Qi/view?usp=sharing
+
+Controls:
 - WASD for movement
 - Left mouse click for tools and sword actions
 - Right mouse click to roll
