@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec9ae74d063110a4f99e40baa512c568, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 0}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Maria
+    profile: {fileID: 21300000, guid: 705e193f69e40464f9a481036c69f82f, type: 3}
+    sentence:
+      portuguese: "Ol\xE1!"
+      english: Hello!
+      spanish: 
+  - actorName: Player
+    profile: {fileID: 21300000, guid: 70ffa176d61432344b190649c74c8072, type: 3}
+    sentence:
+      portuguese: "Ol\xE1! Tudo bem?"
+      english: Hello! How are you?
+      spanish: 
+  - actorName: Maria
+    profile: {fileID: 21300000, guid: 705e193f69e40464f9a481036c69f82f, type: 3}
+    sentence:
+      portuguese: Sim, obrigado
+      english: All fine, thank you
+      spanish: 
+  - actorName: Player
+    profile: {fileID: 21300000, guid: 70ffa176d61432344b190649c74c8072, type: 3}
+    sentence:
+      portuguese: "Preciso ir, at\xE9 mais"
+      english: Gotta go, see you later
+      spanish: 
