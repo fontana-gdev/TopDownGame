@@ -4930,8 +4930,8 @@ MonoBehaviour:
   holeSprite: {fileID: 1689944386, guid: 25a51da4619499a4c901f985137d7db1, type: 3}
   carrotSprite: {fileID: 830797971, guid: 25a51da4619499a4c901f985137d7db1, type: 3}
   dirtParticles: {fileID: 5495412206129458480}
-  digAmount: 4
-  waterNeeded: 5
+  digAmount: 2
+  waterNeeded: 2
   beingWatered: 0
   currentWater: 0
   playerInRange: 0
