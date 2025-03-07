@@ -82,6 +82,9 @@ crashlytics-build.properties
 .idea/**/dictionaries
 .idea/**/shelf
 .idea/.idea.*
+.idea/.idea.TopDownGame/.idea
+.idea/.idea.TopDownGame/.idea/.gitignore
+.idea/.idea.TopDownGame/.idea/indexLayout.xml
 
 # AWS User-specific
 .idea/**/aws.xml
